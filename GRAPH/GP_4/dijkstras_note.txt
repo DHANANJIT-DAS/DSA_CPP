@@ -1,0 +1,8 @@
+
+
+-> Dijkstras algorithim is applicable for directed as well as undirected graph.
+
+-> Dijkstras algorithim is not applicable for negative weighted graph.
+
+-> Dijkstras algorithim is applicable in negative weighted directed graph is there is not such cycle where the total cost
+   of the cycle is negative.(but it may take time as Dijkstras with queue).
